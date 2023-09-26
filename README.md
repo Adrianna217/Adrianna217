@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Adrianna217
+- 👀 I’m interested in learning with CS50.
+- 🌱 I’m currently learning C.
